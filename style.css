@@ -443,7 +443,7 @@ img {
     }
 
     .content {
-        margin-left: 150px;
+        margin-left: 1500px;
         padding: 12px;
     }
 
@@ -472,5 +472,6 @@ img {
 html {
     scroll-behavior: smooth;
 }
+
 
 
